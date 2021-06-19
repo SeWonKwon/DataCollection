@@ -26,6 +26,8 @@
 * [데이콘](https://dacon.io/)
 * [e-나라지표](https://www.index.go.kr/main.do?cate=1)
 * [KOFIC 영화관 입장권 통합전산망](https://www.kobis.or.kr/kobis/business/stat/them/findYearlyTotalList.do)
+* [통합 데이터 지도](https://www.bigdata-map.kr/)
+* [AI hub](https://aihub.or.kr/)
 * 
 
 ## ..
