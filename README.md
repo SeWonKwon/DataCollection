@@ -1,17 +1,27 @@
 # DataCollection
 
 ## OpenAPI
-1. [네이버 검색 API](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L001_API_Naver%20%EA%B2%80%EC%83%89%20API%20Service.ipynb)
-
-2. [공공데이터 포탈 API](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L002_API_%EA%B3%B5%EA%B3%B5%EB%8C%80%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8_%EB%8C%80%EA%B8%B0%20%EC%98%A4%EC%97%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91.ipynb)
+1. E001_API_Naver 검색 
+2. E002_API_공공대이터포털_대기 오염 데이터 수집
+3. E003_API_공공대이터포털_상가(상권) 대이터 수집
+4. 
 
 ## Webscrolling
+1. E001_Selenium_Naver Login & Search
+2. E002_BS4_웹사이트 순위 (Alexa)
+3. 
+
 
 ## Open Dataset
 
 ## data for studying
 
 ## data share
+
+
+
+
+
 
 
 
@@ -23,7 +33,9 @@
 4. L004_BeautifulSoup_Basic
 5. L005_Selenium_Basic_in_Colab
 6. L006_Selenium_Basic_in_Local Jup
-7. 
+7. L007_BS4_웹 사이트 순위 스크래핑_Alexa
+8. 
+
 
 
 
@@ -32,8 +44,7 @@
 
 # Open Dataset List
 
-
-## 
+## KR
 * [공공데이타 포털](https://www.data.go.kr/)
 * [국가통계포털](https://kosis.kr/index/index.do)
 * [데이콘](https://dacon.io/)
@@ -43,7 +54,7 @@
 * [AI hub](https://aihub.or.kr/)
 * 
 
-## ..
+## International
 * [Kaggle](https://www.kaggle.com/)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * 
