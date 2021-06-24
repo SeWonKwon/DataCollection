@@ -6,10 +6,11 @@
 3. E003_API_공공대이터포털_상가(상권) 대이터 수집
 4. 
 
-## Webscrolling
+## Web Crawling
 1. E001_Selenium_Naver Login & Search
 2. E002_BS4_웹사이트 순위 (Alexa)
-3. 
+3. E003_BS4_Naver Movie Review Scrapping
+4. 
 
 
 ## Open Dataset
@@ -34,7 +35,7 @@
 5. L005_Selenium_Basic_in_Colab
 6. L006_Selenium_Basic_in_Local Jup
 7. L007_BS4_웹 사이트 순위 스크래핑_Alexa
-8. 
+8. L008_BS4_Naver Movie Review Scrapping
 
 
 
