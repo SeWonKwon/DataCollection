@@ -10,7 +10,7 @@
 1. E001_Selenium_Naver Login & Search
 2. E002_BS4_웹사이트 순위 (Alexa)
 3. E003_BS4_Naver Movie Review Scrapping
-4. 
+4. E004_BS4_Naver News Scrapping
 
 
 ## Open Dataset
@@ -37,6 +37,7 @@
 8. L006_Selenium_Basic_in_Local Jup
 9. L007_BS4_웹 사이트 순위 스크래핑_Alexa
 10. L008_BS4_Naver Movie Review Scrapping
+11. L009_BS4_Naver News Scrapping
 
 
 
