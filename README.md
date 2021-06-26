@@ -28,7 +28,7 @@
 
 # DataCollection_L
 1. A01_DataCollection_Overview
-2. 
+2. A02_DataCollection_Classification of DataCollection
 3. L001_API_Naver 검색 API Service
 4. L002_API_공공대이터포털_대기 오염 데이터 수집
 5. L003_API_공공대이터포털_상가(상권)_대이터 수집
