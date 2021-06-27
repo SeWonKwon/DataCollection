@@ -44,7 +44,9 @@
 
 
 
+### 출처
 
+[이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEFbtQ9LkKkzTBRDkEz3YHsQ)
 
 
 # Open Dataset List
@@ -64,9 +66,3 @@
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * 
 
-
-
-
-# 출처
-
-[이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEFbtQ9LkKkzTBRDkEz3YHsQ)
