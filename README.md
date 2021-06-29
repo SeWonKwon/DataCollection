@@ -9,11 +9,11 @@
 ## Web Crawling
 1. [Selenium_Naver Login & Search](https://github.com/SeWonKwon/Data_Collection/blob/main/Web%20Crawling/E001_Selenium_Naver%20Login%20%26%20Search.ipynb)
 2. [BS4_웹사이트 순위 (Alexa)](https://github.com/SeWonKwon/Data_Collection/blob/main/Web%20Crawling/E002_BS4_%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%88%9C%EC%9C%84%20%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91_Alexa.ipynb)
-3. [BS4_Naver Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Web%20Crawling/E003_BS4_Naver%20Movie%20Review%20Scrapping.ipynb)
-4. [BS4_Naver News Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L009_BS4_Naver%20News%20Scrapping.ipynb)
-5. [BS4_Naver Blog Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L010_BS4_Naver%20Blog%20Scrapping%20.ipynb) 
-6. [Selenium_Naver Webtoon Title Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L011_Selenium_Naver%20Webtoon%20Title%20Scrapping.ipynb)
-7. [Selenium_CGV Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scrapping.ipynb)
+3. [BS4_Naver Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Web%20Crawling/E003_BS4_Naver%20Movie%20Review%20Scraping.ipynb)
+4. [BS4_Naver News Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L009_BS4_Naver%20News%20Scraping.ipynb)
+5. [BS4_Naver Blog Scraping]() 
+6. [Selenium_Naver Webtoon Title Scraping]()
+7. [Selenium_CGV Movie Review Scraping]()
 
 
 ## Open Dataset
