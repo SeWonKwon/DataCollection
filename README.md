@@ -32,18 +32,20 @@
 # DataCollection_L
 1. A01_DataCollection_Overview
 2. A02_DataCollection_Classification of DataCollection
-3. L001_API_Naver 검색 API Service
-4. L002_API_공공대이터포털_대기 오염 데이터 수집
-5. L003_API_공공대이터포털_상가(상권)_대이터 수집
-6. L004_BeautifulSoup_Basic
-7. L005_Selenium_Basic_in_Colab
-8. L006_Selenium_Basic_in_Local Jup
-9. L007_BS4_웹 사이트 순위 스크래핑_Alexa
-10. L008_BS4_Naver Movie Review Scrapping
-11. L009_BS4_Naver News Scrapping
-12. L010_BS4_Naver Blog Scrapping 
-13. L011_Selenium_Naver Webtoon Title Scrapping
-14. L012_Selenium_CGV Movie Review Scrapping
+3. A03_DataCollection Procedure
+4. 
+5. L001_API_Naver 검색 API Service
+6. L002_API_공공대이터포털_대기 오염 데이터 수집
+7. L003_API_공공대이터포털_상가(상권)_대이터 수집
+8. L004_BeautifulSoup_Basic
+9. L005_Selenium_Basic_in_Colab
+10. L006_Selenium_Basic_in_Local Jup
+11. L007_BS4_웹 사이트 순위 스크래핑_Alexa
+12. L008_BS4_Naver Movie Review Scrapping
+13. L009_BS4_Naver News Scrapping
+14. L010_BS4_Naver Blog Scrapping 
+15. L011_Selenium_Naver Webtoon Title Scrapping
+16. L012_Selenium_CGV Movie Review Scrapping
 
 
 
