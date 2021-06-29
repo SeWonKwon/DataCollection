@@ -13,6 +13,7 @@
 4. [BS4_Naver News Scrapping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L009_BS4_Naver%20News%20Scrapping.ipynb)
 5. [BS4_Naver Blog Scrapping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L010_BS4_Naver%20Blog%20Scrapping%20.ipynb) 
 6. [Selenium_Naver Webtoon Title Scrapping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L011_Selenium_Naver%20Webtoon%20Title%20Scrapping.ipynb)
+7. [Selenium_CGV Movie Review Scrapping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scrapping.ipynb)
 
 
 ## Open Dataset
@@ -42,6 +43,7 @@
 11. L009_BS4_Naver News Scrapping
 12. L010_BS4_Naver Blog Scrapping 
 13. L011_Selenium_Naver Webtoon Title Scrapping
+14. L012_Selenium_CGV Movie Review Scrapping
 
 
 
