@@ -14,6 +14,7 @@
 5. [BS4_Naver Blog Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L010_BS4_Naver%20Blog%20Scraping%20.ipynb) 
 6. [Selenium_Naver Webtoon Title Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L011_Selenium_Naver%20Webtoon%20Title%20Scraping.ipynb)
 7. [Selenium_CGV Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scraping.ipynb)
+8. [Selenium_Google image Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L013_Selenium_Google%20image%20Scraping.ipynb)
 
 
 ## Open Dataset
@@ -46,6 +47,7 @@
 14. L010_BS4_Naver Blog Scraping 
 15. L011_Selenium_Naver Webtoon Title Scraping
 16. L012_Selenium_CGV Movie Review Scraping
+17. L013_Selenium_Google image Scraping
 
 
 
