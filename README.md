@@ -16,20 +16,6 @@
 7. [Selenium_CGV Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scraping.ipynb)
 8. [Selenium_Google image Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L013_Selenium_Google%20image%20Scraping.ipynb)
 
-
-## Open Dataset
-
-## data for studying
-
-## data share
-
-
-
-
-
-
-
-
 # DataCollection_L
 1. A01_DataCollection_Overview
 2. A02_DataCollection_Classification of DataCollection
@@ -57,7 +43,15 @@
 [이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEFbtQ9LkKkzTBRDkEz3YHsQ)
 
 
-# Open Dataset List
+# Dataset
+
+
+## data for studying
+* [Dataset for practice](https://github.com/SeWonKwon/Data_Collection/blob/main/Dataset/DataSet%20for%20practice.ipynb)
+
+## data share
+
+## Open Dataset
 
 ## KR
 * [공공데이타 포털](https://www.data.go.kr/)
