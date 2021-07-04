@@ -15,6 +15,7 @@
 6. [Selenium_Naver Webtoon Title Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L011_Selenium_Naver%20Webtoon%20Title%20Scraping.ipynb)
 7. [Selenium_CGV Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scraping.ipynb)
 8. [Selenium_Google image Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L013_Selenium_Google%20image%20Scraping.ipynb)
+9. [Selenium_Naver News 댓글 scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L014_Selenium_Naver%20News%20%EB%8C%93%EA%B8%80%20scraping.ipynb)
 
 # DataCollection_L
 1. A01_DataCollection_Overview
@@ -34,6 +35,7 @@
 15. L011_Selenium_Naver Webtoon Title Scraping
 16. L012_Selenium_CGV Movie Review Scraping
 17. L013_Selenium_Google image Scraping
+18. L014_Selenium_Naver News 댓글 scraping
 
 
 
