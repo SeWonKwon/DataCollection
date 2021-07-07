@@ -16,6 +16,7 @@
 7. [Selenium_CGV Movie Review Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L012_Selenium_CGV%20Movie%20Review%20Scraping.ipynb)
 8. [Selenium_Google image Scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L013_Selenium_Google%20image%20Scraping.ipynb)
 9. [Selenium_Naver News 댓글 scraping](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L014_Selenium_Naver%20News%20%EB%8C%93%EA%B8%80%20scraping.ipynb)
+10. [Selenium 국회의원 데이터 스크래핑](https://github.com/SeWonKwon/Data_Collection/blob/main/Data%20Colletion_L/L015_Selenium%20%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
 
 # DataCollection_L
 1. A01_DataCollection_Overview
@@ -36,6 +37,7 @@
 16. L012_Selenium_CGV Movie Review Scraping
 17. L013_Selenium_Google image Scraping
 18. L014_Selenium_Naver News 댓글 scraping
+19. L015_Selenium 국회의원 데이터 스크래핑
 
 
 
