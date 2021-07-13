@@ -65,7 +65,8 @@
 * [KOFIC 영화관 입장권 통합전산망](https://www.kobis.or.kr/kobis/business/stat/them/findYearlyTotalList.do)
 * [통합 데이터 지도](https://www.bigdata-map.kr/)
 * [AI hub](https://aihub.or.kr/)
-* 
+* [통계청](https://kostat.go.kr/portal/korea/index.action)
+* [한국주류협회](http://www.kalia.or.kr/main.php)
 
 ## International
 * [Kaggle](https://www.kaggle.com/)
