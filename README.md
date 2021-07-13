@@ -71,5 +71,6 @@
 ## International
 * [Kaggle](https://www.kaggle.com/)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [UCI ML Dataset](https://archive.ics.uci.edu/ml/datasets.php)
 * 
 
